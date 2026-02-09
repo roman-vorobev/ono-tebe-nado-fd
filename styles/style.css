@@ -26,7 +26,6 @@ header {
 }
 
 .header__links-list-item_no-bullit {
-  /*transform: translateX(8.4px);*/
   text-decoration: none;
   list-style: none;
 }
